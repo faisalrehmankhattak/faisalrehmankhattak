@@ -37,7 +37,7 @@ Applied AI engineer in Boston. I teach agents to take orders, and I build the ev
 
 ### 📦 Previously
 
-- Co-founded a voice AI startup and took it from idea to 12 paying restaurants.
+- Co-founded [BiteBuddy](https://bitebuddy.ai/), a voice AI startup for restaurants, and led engineering from idea to 12 paying locations.
 - SHARE Mobility: technical partner to 100+ enterprise clients; the platform we built became standalone SaaS.
 - CareCloud: healthcare document intelligence over 60K+ documents a day under HIPAA.
 
