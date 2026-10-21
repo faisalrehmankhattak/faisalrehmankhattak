@@ -17,7 +17,7 @@ Applied AI engineer in Boston. I teach agents to take orders, and I build the ev
 
 ### 🛠️ What I'm doing
 
-- AI tech lead at Checkmate: real-time voice agents and LLM agents in production, plus the evals that gate every release.
+- AI tech lead at Checkmate: LLM agents in production, and the evals that gate every release.
 - Building Countify.
 - Helping early-stage founders through Northeastern's IDEA Lab and Startup Boston.
 
