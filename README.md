@@ -13,7 +13,7 @@ Applied AI engineer in Boston. I teach agents to take orders, and I build the ev
 ### 🚀 Start here
 
 - 💊 **[rxnorm-voice-normalizer](https://github.com/faisalrehmankhattak/rxnorm-voice-normalizer)**: the LLM proposes, the RxNorm API verifies, so it never invents a drug ID. Eval suite plus a prompt loop that improves itself.
-- 🔬 **Countify**: turns a researcher's plain-language request into a reproducible image-analysis pipeline. Multi-agent, MCP, vision models. Used by labs at Harvard, Princeton, Stanford, and Brown.
+- 🔬 **[Countify](https://www.countifybio.com/)**: turns a researcher's plain-language request into a reproducible image-analysis pipeline. Multi-agent, MCP, vision models. Used by labs at Harvard, Princeton, Stanford, and Brown.
 
 ### 🛠️ What I'm doing
 
