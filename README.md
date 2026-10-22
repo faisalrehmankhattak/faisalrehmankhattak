@@ -24,8 +24,9 @@ Applied AI engineer in Boston. I teach agents to take orders, and I build the ev
 ### ✍️ Latest writing
 
 <!-- writing starts -->
+- [Let the Vision Model Explain the Image. Let the Detection Pipeline Count.](https://medium.com/@faisalkhattak391/let-the-vision-model-explain-the-image-let-the-detection-pipeline-count-1566b7fb16a7)
 - [When Customers Say “Caafee,” They Don’t Want a Spelling Lesson — They Want Coffee](https://medium.com/@faisalkhattak391/when-customers-say-caafee-they-dont-want-a-spelling-lesson-they-want-coffee-ed1ba5653cf9)
-- [How can we fine-tune large language models (LLMs) for downstream tasks using minimal resources?](https://medium.com/@faisalkhattak391/how-can-we-fine-tune-large-language-models-llms-for-downstream-tasks-using-minimal-resources-205e2137877a)
+- [LoRA Explained: What You Save, What You Constrain, and What You Still Need to Measure](https://medium.com/@faisalkhattak391/how-can-we-fine-tune-large-language-models-llms-for-downstream-tasks-using-minimal-resources-205e2137877a)
 <!-- writing ends -->
 
 ### 🧭 Philosophy
